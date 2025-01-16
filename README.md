@@ -1,6 +1,6 @@
 # Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing
 
-This repository contains the Code of the ICML’24 paper _Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing_.
+This repository contains the Code of the MTGCN model in the ICML’24 paper _Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing_.
 
 ## Brief Description of Code Structure
 
