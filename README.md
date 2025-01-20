@@ -1,6 +1,6 @@
 # MTGCN: Multi-Track Graph Convolutional Network
 
-Code and models for the paper ["Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing"](https://openreview.net/pdf?id=1sRuv4cnuZ)
+This repository contains the Code of the MTGCN model in the ICML’24 paperCode and models for the paper ["Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing"](https://openreview.net/pdf?id=1sRuv4cnuZ)
 
 ![1737361222363](images/README/1737361222363.png)
 

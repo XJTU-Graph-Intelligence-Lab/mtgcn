@@ -167,8 +167,4 @@ if __name__ == '__main__':
     for data_name in tqdm(name_list):
         data = load_data(data_name)
         for i in range(10):
-            change_spilt(data_name, data.x.shape[0], 0.6, 0.2, i)
             change_spilt(data_name, data.x.shape[0], 0.48, 0.32, i)
-            if data_name in ['cora', 'citeseer', 'pubmed']:
-                get_node_spilt(data_name, data.x.size(0), data.y, i)
-            get_node_spilt(data_name, data.x.size(0), data.y)
