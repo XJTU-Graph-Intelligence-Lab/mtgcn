@@ -1,0 +1,7 @@
+__pycache__
+plot
+resplot
+*.bin
+*.csv
+*.pt
+_old_data
